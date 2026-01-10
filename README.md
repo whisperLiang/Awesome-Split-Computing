@@ -35,13 +35,11 @@ Articles are sorted by year, from most recent to oldest.
 
 
 ## 2025 ##
-- A Multi-Task Supervised Compression Model for Split Computing, <ins>Winter Conference on Applications of Computer Vision (WACV)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10943765)].
+- A Multi-Task Supervised Compression Model for Split Computing, <ins>Winter Conference on Applications of Computer Vision (WACV)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10943765)], [[code](https://github.com/yoshitomo-matsubara/ladon-multi-task-sc2)].
 
-- ✨ LO-SC: Local-Only Split Computing for Accurate Deep Learning on Edge Devices, <ins>International Conference on VLSI Design (VLSID)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10900702)], [[website](https://intelligolabs.github.io/LO-SC/)].
+- ✨ LO-SC: Local-Only Split Computing for Accurate Deep Learning on Edge Devices, <ins>International Conference on VLSI Design (VLSID)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10900702)], [[website](https://intelligolabs.github.io/LO-SC/)], [[code](https://github.com/intelligolabs/LO-SC)].
 
-- A Multi-task Supervised Compression Model for Split Computing, <ins>Winter Conference on Applications of Computer Vision (WACV)</ins>, [[article](https://arxiv.org/abs/2501.01420)].
-
-- ✨ Controllers for Edge-Cloud Cyber-Physical Systems, <ins>International Conference on COMmunication Systems and NETworks (COMSNETS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10885702)], [[website](https://luigicapogrosso.github.io/controllers_for_edge_cloud_cps/)].
+- ✨ Controllers for Edge-Cloud Cyber-Physical Systems, <ins>International Conference on COMmunication Systems and NETworks (COMSNETS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10885702)], [[website](https://luigicapogrosso.github.io/controllers_for_edge_cloud_cps/)], [[code](https://github.com/luigicapogrosso/controllers_for_edge_cloud_cps)].
 
 - LVMScissor: Split and Schedule Large Vision Model Inference on Mobile Edges via Salp Swarm Algorithm, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10923690)].
 
@@ -57,15 +55,15 @@ Articles are sorted by year, from most recent to oldest.
 
 - DISNET: Distributed Micro-Split Deep Learning in Heterogeneous Dynamic IoT, <ins>IEEE Internet of Things Journal</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10243578)], [[code](https://github.com/ricsamikwa/DiSNet)].
 
-- ✨ MTL-Split: Multi-Task Learning for Edge Devices using Split Computing, <ins>Design Automation Conference (DAC)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3649329.3655686)], [[website](https://intelligolabs.github.io/MTL-Split/)].
+- ✨ MTL-Split: Multi-Task Learning for Edge Devices using Split Computing, <ins>Design Automation Conference (DAC)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3649329.3655686)], [[website](https://intelligolabs.github.io/MTL-Split/)], [[code](https://github.com/intelligolabs/MTL-Split)].
 
 - Neuromorphic Split Computing With Wake-Up Radios: Architecture and Design via Digital Twinning, <ins>IEEE Transactions on Signal Processing</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10682971)].
 
-- ✨ Enhancing Split Computing and Early Exit Applications through Predefined Sparsity, <ins>Forum on Specification & Design Languages (FDL)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10673767)], [[website](https://intelligolabs.github.io/sparsity_sc_ee/)].
+- ✨ Enhancing Split Computing and Early Exit Applications through Predefined Sparsity, <ins>Forum on Specification & Design Languages (FDL)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10673767)], [[website](https://intelligolabs.github.io/sparsity_sc_ee/)], [[code](https://github.com/intelligolabs/sparsity_sc_ee)].
 
 - Enhancing the Reliability of Split Computing Deep Neural Networks, <ins>International Symposium on On-Line Testing and Robust System Design (IOLTS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10616071)].
 
-- ✨ Learning-Enabled CPS for Edge-Cloud Computing, <ins>International Symposium on Industrial Embedded Systems (SIES)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10767956)], [[website](https://luigicapogrosso.github.io/learning_enabled_cps/)].
+- ✨ Learning-Enabled CPS for Edge-Cloud Computing, <ins>International Symposium on Industrial Embedded Systems (SIES)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10767956)], [[website](https://luigicapogrosso.github.io/learning_enabled_cps/)], [[code](https://github.com/luigicapogrosso/learning_enabled_cps)].
 
 - Smart Split: Leveraging TinyML and Split Computing for Efficient Edge AI, <ins>Symposium on Edge Computing (SEC)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10818181)].
 
@@ -81,7 +79,7 @@ Articles are sorted by year, from most recent to oldest.
 
 - Automated Exploration and Implementation of Distributed CNN Inference at the Edge, <ins>IEEE Internet of Things Journal</ins>, [[article](https://ieeexplore.ieee.org/document/10018439)], [[code](https://github.com/parrotsky/AutoDiCE)].
 
-- ✨ Split-Et-Impera: A Framework for the Design of Distributed Deep Learning Applications, <ins>International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10139711)], [[website](https://luigicapogrosso.github.io/split_et_impera/)].
+- ✨ Split-Et-Impera: A Framework for the Design of Distributed Deep Learning Applications, <ins>International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10139711)], [[website](https://luigicapogrosso.github.io/split_et_impera/)], [[code](https://github.com/luigicapogrosso/split_et_impera)].
 
 - Dynamic Split Computing for Efficient Deep EDGE Intelligence, <ins>International Conference on Acoustics, Speech and Signal Processing (ICASSP)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10096914)].
 
@@ -89,7 +87,7 @@ Articles are sorted by year, from most recent to oldest.
 
 - SplitEE: Early Exit in Deep Neural Networks with Split Computing, <ins>Third International Conference on AI-ML Systems (AIMLSystems)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3639856.3639873)].
 
-- SplitBeam: Effective and Efficient Beamforming in Wi-Fi Networks Through Split Computing, <ins>International Conference on Distributed Computing Systems (ICDCS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10272483)].
+- SplitBeam: Effective and Efficient Beamforming in Wi-Fi Networks Through Split Computing, <ins>International Conference on Distributed Computing Systems (ICDCS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10272483)], [[code](https://github.com/yoshitomo-matsubara/split-beam)].
 
 - Distributed Split Computing System in Cooperative Internet of Things (IoT), <ins>IEEE Access</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10194304)].
 
@@ -97,17 +95,17 @@ Articles are sorted by year, from most recent to oldest.
 
 - Efficient Communication-Computation Tradeoff for Split Computing: A Multi-Tier Deep Reinforcement Learning Approach, <ins>Global Communications Conference</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10437522)].
 
-- SC2 Benchmark: Supervised Compression for Split Computing, <ins>Transactions on Machine Learning Research</ins>, [[article](https://openreview.net/forum?id=p28wv4G65d&noteId=OfyTPu2MNE)].
+- SC2 Benchmark: Supervised Compression for Split Computing, <ins>Transactions on Machine Learning Research</ins>, [[article](https://openreview.net/forum?id=p28wv4G65d&noteId=OfyTPu2MNE)], [[code](https://github.com/yoshitomo-matsubara/sc2-benchmark)].
 
 
 ## 2022 ##
 - PipeEdge: Pipeline Parallelism for Large-Scale Model Inference on Heterogeneous Edge Devices, <ins>Euromicro Conference on Digital System Design (DSD)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9996638)], [[code](https://github.com/usc-isi/PipeEdge)].
 
-- ✨ I-SPLIT: Deep Network Interpretability for Split Computing, <ins>International Conference on Pattern Recognition (ICPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9956625)], [[website](https://vips4.github.io/I-Split/)].
+- ✨ I-SPLIT: Deep Network Interpretability for Split Computing, <ins>International Conference on Pattern Recognition (ICPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9956625)], [[website](https://vips4.github.io/I-Split/)], [[code](https://github.com/vips4/I-Split)].
 
-- BottleFit: Learning Compressed Representations in Deep Neural Networks for Effective and Efficient Split Computing, <ins>International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9842809)].
+- BottleFit: Learning Compressed Representations in Deep Neural Networks for Effective and Efficient Split Computing, <ins>International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9842809)], [[code](https://github.com/yoshitomo-matsubara/bottlefit-split_computing)].
 
-- Supervised Compression for Resource-Constrained Edge Computing Systems, <ins>Winter Conference on Applications of Computer Vision (WACV)</ins>, [[article](https://ieeexplore.ieee.org/document/9706690)].
+- Supervised Compression for Resource-Constrained Edge Computing Systems, <ins>Winter Conference on Applications of Computer Vision (WACV)</ins>, [[article](https://ieeexplore.ieee.org/document/9706690)], [[code](https://github.com/yoshitomo-matsubara/supervised-compression)].
 
 
 ## 2021 ##
@@ -121,7 +119,7 @@ Articles are sorted by year, from most recent to oldest.
 
 - A Splittable DNN-Based Object Detector for Edge-Cloud Collaborative Real-Time Video Inference, <ins>International Conference on Advanced Video and Signal Based Surveillance (AVSS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9663806)].
 
-- Neural Compression and Filtering for Edge-assisted Real-time Object Detection in Challenged Networks, <ins>International Conference on Pattern Recognition (ICPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9412388)].
+- Neural Compression and Filtering for Edge-assisted Real-time Object Detection in Challenged Networks, <ins>International Conference on Pattern Recognition (ICPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9412388)], [[code](https://github.com/yoshitomo-matsubara/hnd-ghnd-object-detectors)].
 
 - Cut, Distil and Encode (CDE): Split Cloud-Edge Deep Inference, <ins>International Conference on Sensing, Communication, and Networking (SECON)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9491600)].
 
@@ -131,17 +129,17 @@ Articles are sorted by year, from most recent to oldest.
 
 - A Probabilistic Re-Intepretation of Confidence Scores in Multi-Exit Models, <ins>Entropy</ins>, [[article](https://www.mdpi.com/1099-4300/24/1/1)].
 
-- Zero Time Waste: Recycling Predictions in Early Exit Neural Networks, <ins>A dvances in Neural Information Processing Systems (NeurIPS)</ins>, [[article](https://proceedings.neurips.cc/paper/2021/hash/149ef6419512be56a93169cd5e6fa8fd-Abstract.html)].
+- Zero Time Waste: Recycling Predictions in Early Exit Neural Networks, <ins>A dvances in Neural Information Processing Systems (NeurIPS)</ins>, [[article](https://proceedings.neurips.cc/paper/2021/hash/149ef6419512be56a93169cd5e6fa8fd-Abstract.html)], [[code](https://github.com/gmum/Zero-Time-Waste)].
 
 
 ## 2020 ##
-- Head Network Distillation: Splitting Distilled Deep Neural Networks for Resource-Constrained Edge Computing Systems, <ins>IEEE Access</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9265295)].
+- Head Network Distillation: Splitting Distilled Deep Neural Networks for Resource-Constrained Edge Computing Systems, <ins>IEEE Access</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9265295)], [[code](https://github.com/yoshitomo-matsubara/head-network-distillation)].
 
 - Split Computing for Complex Object Detectors: Challenges and Preliminary Results, <ins>International Workshop on Embedded and Mobile Deep Learning</ins>, [article](https://dl.acm.org/doi/abs/10.1145/3410338.3412338)].
 
 - BottleNet++: An End-to-End Approach for Feature Compression in Device-Edge Co-Inference Systems, <ins>International Conference on Communications Workshops (ICC Workshops)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9145068)].
 
-- Resolution Adaptive Networks for Efficient Inference, <ins>Conference on Computer Vision and Pattern Recognition (CVPR)</ins>, [[article](https://ieeexplore.ieee.org/document/9157556)].
+- Resolution Adaptive Networks for Efficient Inference, <ins>Conference on Computer Vision and Pattern Recognition (CVPR)</ins>, [[article](https://ieeexplore.ieee.org/document/9157556)], [[code](https://github.com/yangle15/RANet-pytorch)].
 
 - Fast and Accurate Streaming CNN Inference via Communication Compression on the Edge, <ins>International Conference on Internet-of-Things Design and Implementation (IoTDI)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9097616)].
 
@@ -149,7 +147,7 @@ Articles are sorted by year, from most recent to oldest.
 
 - SPINN: synergistic progressive inference of neural networks over device and cloud, <ins>Annual International Conference on Mobile Computing and Networking (MobiCom)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3372224.3419194)].
 
-- Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency, <ins>Conference on Embedded Networked Sensor Systems (SenSys)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)].
+- Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency, <ins>Conference on Embedded Networked Sensor Systems (SenSys)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)], [[code](https://github.com/CPS-AI/Deep-Compressive-Offloading)].
 
 - Lightweight Compression Of Neural Network Feature Tensors For Collaborative Intelligence, <ins>International Conference on Multimedia and Expo (ICME)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9102797)].
 
@@ -179,7 +177,7 @@ Articles are sorted by year, from most recent to oldest.
 
 - Exploiting Energy-Accuracy Trade-off through Contextual Awareness in Multi-Stage Convolutional Neural Networks, <ins>International Symposium on Quality Electronic Design (ISQED)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8697497)].
 
-- Distillation-Based Training for Multi-Exit Architectures, <ins>International Conference on Computer Vision (ICCV)</ins>, [[article](https://ieeexplore.ieee.org/document/9009834)].
+- Distillation-Based Training for Multi-Exit Architectures, <ins>International Conference on Computer Vision (ICCV)</ins>, [[article](https://ieeexplore.ieee.org/document/9009834)], [[code](https://github.com/mary-phuong/multiexit-distillation)].
 
 
 ## 2018 ##
@@ -197,8 +195,8 @@ Articles are sorted by year, from most recent to oldest.
 
 - A Dynamic Deep Neural Network Design for Efficient Workload Allocation in Edge Computing, <ins>International Conference on Computer Design (ICCD)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8119222)].
 
-- Distributed Deep Neural Networks Over the Cloud, the Edge and End Devices, <ins>International Conference on Distributed Computing Systems (ICDCS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/7979979)].
+- Distributed Deep Neural Networks Over the Cloud, the Edge and End Devices, <ins>International Conference on Distributed Computing Systems (ICDCS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/7979979)], [[code](https://github.com/kunglab/ddnn)].
 
 
 ## 2016 ##
-- BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks, <ins>International Conference on Pattern Recognition (ICPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/7900006)].
+- BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks, <ins>International Conference on Pattern Recognition (ICPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/7900006)], [[code](https://github.com/kunglab/branchynet)].
