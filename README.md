@@ -99,6 +99,8 @@ Articles are sorted by year, from most recent to oldest.
 
 
 ## 2022 ##
+- SplitPlace: AI Augmented Splitting and Placement of Large-Scale Neural Networks in Mobile Edge Environments, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://ieeexplore.ieee.org/document/9780535)], [[code](https://github.com/imperial-qore/SplitPlace)].
+
 - PipeEdge: Pipeline Parallelism for Large-Scale Model Inference on Heterogeneous Edge Devices, <ins>Euromicro Conference on Digital System Design (DSD)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9996638)], [[code](https://github.com/usc-isi/PipeEdge)].
 
 - ✨ I-SPLIT: Deep Network Interpretability for Split Computing, <ins>International Conference on Pattern Recognition (ICPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9956625)], [[website](https://vips4.github.io/I-Split/)], [[code](https://github.com/vips4/I-Split)].
