@@ -31,7 +31,7 @@ Paper Title, <ins>Conference/Journal/Preprint</ins>, [[article](link)], [[other 
 ## 📌 Table of Contents ##
 Articles are sorted by year, from most recent to oldest.
 
-[2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2021) | [2019](#2020) | [2018](#2018) | [2017](#2017) | [2016](#2016)
+[2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016)
 
 
 ## 2025 ##
@@ -137,7 +137,7 @@ Articles are sorted by year, from most recent to oldest.
 ## 2020 ##
 - Head Network Distillation: Splitting Distilled Deep Neural Networks for Resource-Constrained Edge Computing Systems, <ins>IEEE Access</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9265295)], [[code](https://github.com/yoshitomo-matsubara/head-network-distillation)].
 
-- Split Computing for Complex Object Detectors: Challenges and Preliminary Results, <ins>International Workshop on Embedded and Mobile Deep Learning</ins>, [article](https://dl.acm.org/doi/abs/10.1145/3410338.3412338)].
+- Split Computing for Complex Object Detectors: Challenges and Preliminary Results, <ins>International Workshop on Embedded and Mobile Deep Learning</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3410338.3412338)].
 
 - BottleNet++: An End-to-End Approach for Feature Compression in Device-Edge Co-Inference Systems, <ins>International Conference on Communications Workshops (ICC Workshops)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9145068)].
 
