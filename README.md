@@ -35,6 +35,8 @@ Articles are sorted by year, from most recent to oldest.
 
 
 ## 2025 ##
+- DNN Partitioning for GPU–CPU Heterogeneous Devices Based on Imitation Learning, <ins>IEEE Internet of Things Journal</ins>, [[article](https://doi.org/10.1109/jiot.2025.3624053)], [[code](https://github.com/edgeflow-lab/imitation-dnn-partition)].
+
 - A Multi-Task Supervised Compression Model for Split Computing, <ins>Winter Conference on Applications of Computer Vision (WACV)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10943765)], [[code](https://github.com/yoshitomo-matsubara/ladon-multi-task-sc2)].
 
 - ✨ LO-SC: Local-Only Split Computing for Accurate Deep Learning on Edge Devices, <ins>International Conference on VLSI Design (VLSID)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10900702)], [[website](https://intelligolabs.github.io/LO-SC/)], [[code](https://github.com/intelligolabs/LO-SC)].
